@@ -1,0 +1,10 @@
+D:\Education\Programming\3 sem\OOP\Практика\OOP\OOP_Lab_1\OOP_Lab_1\bin\Debug\OOP_Lab_1.exe.config
+D:\Education\Programming\3 sem\OOP\Практика\OOP\OOP_Lab_1\OOP_Lab_1\bin\Debug\OOP_Lab_1.exe
+D:\Education\Programming\3 sem\OOP\Практика\OOP\OOP_Lab_1\OOP_Lab_1\bin\Debug\OOP_Lab_1.pdb
+D:\Education\Programming\3 sem\OOP\Практика\OOP\OOP_Lab_1\OOP_Lab_1\obj\Debug\OOP_Lab_1.csprojAssemblyReference.cache
+D:\Education\Programming\3 sem\OOP\Практика\OOP\OOP_Lab_1\OOP_Lab_1\obj\Debug\OOP_Lab_1.csproj.CoreCompileInputs.cache
+D:\Education\Programming\3 sem\OOP\Практика\OOP\OOP_Lab_1\OOP_Lab_1\obj\Debug\OOP_Lab_1.exe
+D:\Education\Programming\3 sem\OOP\Практика\OOP\OOP_Lab_1\OOP_Lab_1\obj\Debug\OOP_Lab_1.pdb
+D:\Education\Programming\3 sem\OOP\Практика\OOP\OOP_Lab_1\OOP_Lab_1\bin\Debug\System.ValueTuple.dll
+D:\Education\Programming\3 sem\OOP\Практика\OOP\OOP_Lab_1\OOP_Lab_1\bin\Debug\System.ValueTuple.xml
+D:\Education\Programming\3 sem\OOP\Практика\OOP\OOP_Lab_1\OOP_Lab_1\obj\Debug\OOP_Lab_1.csproj.CopyComplete
