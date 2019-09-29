@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{871E8271-C671-4B51-A90C-01CA1AE326F4}</ProjectGuid>
+    <ProjectGuid>{51AC25EE-6765-4B8A-8798-9B385B5BC8C6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OOP_Lab_7</RootNamespace>
-    <AssemblyName>OOP_Lab_7</AssemblyName>
+    <RootNamespace>OOP_Lab_3</RootNamespace>
+    <AssemblyName>OOP_Lab_3</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Exeption_Class.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Stack.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
